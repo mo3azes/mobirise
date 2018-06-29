@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "name": "Site-06-29_1630",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "directm",
+      "title": "DirectM",
+      "styling": {
+        "primaryColor": "#5aac98",
+        "secondaryColor": "#A25DAE",
+        "successColor": "#1E7C3A",
+        "infoColor": "#74a3c7",
+        "warningColor": "#FFD785",
+        "dangerColor": "#FF9685",
+        "titleFont": "Cairo",
+        "subtitleFont": "Changa",
+        "textFont": "Libre Franklin",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [
+      {
+        "css": "'Cairo', sans-serif",
+        "name": "Cairo",
+        "url": "https://fonts.googleapis.com/css?family=Cairo:200,300,400,600,700,900"
+      },
+      {
+        "css": "'Changa', sans-serif",
+        "name": "Changa",
+        "url": "https://fonts.googleapis.com/css?family=Changa:200,300,400,500,600,700,800"
+      }
+    ],
+    "versionFirst": "4.7.6",
+    "uniqCompNum": 0,
+    "versionPublish": "4.7.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
